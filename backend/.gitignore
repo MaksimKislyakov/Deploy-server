@@ -1,0 +1,7 @@
+djsite/client_secret.json
+
+venv/
+
+.env
+
+credentials/
